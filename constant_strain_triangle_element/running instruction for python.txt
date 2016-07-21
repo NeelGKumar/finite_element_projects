@@ -1,0 +1,7 @@
+1. CAE has a python IDE "DrPython" in linux. Can be located at Applications-->Programming-->DrPython. In windows its "pyscripter". 
+2. Load and Run the file "CST.py"
+3. "BarElementFEM" is a class but it can be runned as main for testing inside the class itself
+4. The "main" area is at the bottom of the class
+5. File is read at Line 111 - "f = open ('case1.txt', 'r') ". Change the file name to the input file you want to use
+6.The input file must be in the same folder as the class file
+7. Output is printed in the format mentioned.
